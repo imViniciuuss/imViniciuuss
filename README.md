@@ -1,7 +1,7 @@
 ## 👋 Hello World!
 
 Salve pessoas! Meu nome é Vinicius, mas pode me chamar de Vini. <br>
-Iniciei na programação lá em 2016 e hoje continuo me apaixonando <br>
+Iniciei na programação lá em 2016 e hoje sigo me apaixonando <br>
 Cada vez mais por ela!
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
